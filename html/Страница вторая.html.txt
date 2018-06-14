@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Природа Казахстана</title>
+</head>
+
+        <body background="tekstura_stena_zelenyj_poverkhnost_111617_1600x1200.jpg",> 
+<BR>
+</html>

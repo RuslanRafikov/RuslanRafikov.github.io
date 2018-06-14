@@ -1,0 +1,183 @@
+
+a:link {
+  color: #497DDD; 
+  border-bottom: 1px dashed; 
+}
+a:visited {
+  color: #EF7D55;
+}
+a:hover {
+  color: #154088; 
+  border-bottom: .07em solid;
+}
+a:active {
+  color: #497DDD; 
+  border-bottom: 1px dashed;
+}
+
+{
+  background: url(https://html5book.ru/wp-content/uploads/2015/06/background311.png);
+  color: #555;
+  margin: 0;
+}
+.container {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 660px;
+}
+table {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #eee;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 10px;
+  vertical-align: middle;
+  text-align: center;
+}
+.custom {
+  cursor: url(https://html5book.ru/wp-content/uploads/2015/09/fox.png), pointer;
+}
+.auto {
+  cursor: auto;
+}
+.default {
+  cursor: default;
+}
+.none {
+  cursor: none;
+}
+.context-menu {
+  cursor: context-menu;
+}
+.help {
+  cursor: help;
+}
+.pointer {
+  cursor: pointer;
+}
+.progress {
+  cursor: progress;
+}
+.wait {
+  cursor: wait;
+}
+.cell {
+  cursor: cell;
+}
+.crosshair {
+  cursor: crosshair;
+}
+.text {
+  cursor: text;
+}
+.vertical-text {
+  cursor: vertical-text;
+}
+
+.alias {
+  cursor: alias;
+}
+.copy {
+  cursor: copy;
+}
+.move {
+  cursor: move;
+}
+.no-drop {
+  cursor: no-drop;
+}
+.not-allowed {
+  cursor: not-allowed;
+}
+.zoom-in {
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+.zoom-out {
+  cursor: -webkit-zoom-out;
+  cursor: zoom-out;
+}
+.grab {
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+.grabbing {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
+.n-resize {
+  cursor: n-resize;
+}
+.ne-resize {
+  cursor: ne-resize;
+}
+.e-resize {
+  cursor: e-resize;
+}
+.se-resize {
+  cursor: se-resize;
+}
+.s-resize {
+  cursor: s-resize;
+}
+.sw-resize {
+  cursor: sw-resize;
+}
+.w-resize {
+  cursor: w-resize;
+}
+.nw-resize {
+  cursor: nw-resize;
+}
+.se-resize {
+  cursor: se-resize;
+}
+.ew-resize {
+  cursor: ew-resize;
+}
+.ns-resize {
+  cursor: ns-resize;
+}
+.nesw-resize {
+  cursor: nesw-resize;
+}
+.nwse-resize {
+  cursor: nwse-resize;
+}
+.col-resize {
+  cursor: col-resize;
+}
+.row-resize {
+  cursor: row-resize;
+}
+.all-scroll {
+  cursor: all-scroll;
+}
+
+
+}.class
+.image_560711120237358634247	
+.c3a268ecf27e1fa14232952b4c790ce7:hover{
+	transform: scale(1.15, 1.15);
+}
+.maxresdefault:hover{
+	transform: scale(1.15, 1.15);
+}
+.1468663074_123045:hover{
+	transform: scale(1.15, 1.15);
+}
+.photo_238530:hover{
+	transform: scale(1.15, 1.15);
+}
+.20140921384783-2ed5af4b:hover{
+	transform: scale(1.15, 1.15);
+}
+   .karakal-stepnaya-rys:hover{
+	transform: scale(1.15, 1.15);
+}
